@@ -1,1 +1,60 @@
-"{}" 
+[
+  {
+    "name": "TS0185eea4",
+    "value": "01fef04d4ea5d219dbe11d6fef82d9b0415208d7c96ab2fa47945191dccb4233b9cb8802b29ac0059fbb3dcd20d608a596e195afe8cd89e1a5dccb4ff40a9d6d4321eb418b",
+    "domain": ".sso.acesso.gov.br",
+    "path": "/",
+    "expires": -1,
+    "size": 148,
+    "httpOnly": false,
+    "secure": false,
+    "session": true,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "INGRESSCOOKIE",
+    "value": "7f85e69f5a659f36",
+    "domain": ".sso.acesso.gov.br",
+    "path": "/",
+    "expires": -1,
+    "size": 29,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameSite": "None",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "TS0197b850",
+    "value": "01fef04d4e8d8b800174885274156a6dad7b09ca3a6ab2fa47945191dccb4233b9cb8802b2d48c351c05ff2a542652471c50da343d",
+    "domain": "sso.acesso.gov.br",
+    "path": "/",
+    "expires": -1,
+    "size": 116,
+    "httpOnly": false,
+    "secure": false,
+    "session": true,
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  },
+  {
+    "name": "Session_Gov_Br_Prod",
+    "value": "EdI1ZoqQ9aWdthiXXXV-kg6pZrNRidwgyM3ZM8z-.scp-5d6d68885-hcng9",
+    "domain": ".sso.acesso.gov.br",
+    "path": "/",
+    "expires": -1,
+    "size": 79,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameSite": "None",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "sourcePort": 443
+  }
+]
