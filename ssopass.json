@@ -1,7 +1,7 @@
 [
   {
     "name": "TS0185eea4",
-    "value": "01fef04d4ef95dd59f4085f07e343a67e0847b5b8872640f2738afb53daaa2d607a27b878d4934fd246e4577cd51634c78fba684e33202b865862f40c6de6482c7538f823e",
+    "value": "01fef04d4ea98c8932f59f187462329a56bb2f0860e93474a91e9520e72f4a1d2217cd7c368c18e66471e371adf38da3d92b465adb87546b0d4aa7009248af75aebedd4320",
     "domain": ".sso.acesso.gov.br",
     "path": "/",
     "expires": -1,
@@ -15,7 +15,7 @@
   },
   {
     "name": "INGRESSCOOKIE",
-    "value": "422f85d8630511f1",
+    "value": "f8748f5a25ba9547",
     "domain": ".sso.acesso.gov.br",
     "path": "/",
     "expires": -1,
@@ -30,7 +30,7 @@
   },
   {
     "name": "TS0197b850",
-    "value": "01fef04d4e2ce4bac02b91e2f82ff025beaa4e702872640f2738afb53daaa2d607a27b878d5eeef2caf820482aa11443e7ffd5e465",
+    "value": "01fef04d4e3e73a1bbd219fa58483674773b8dbf2ae93474a91e9520e72f4a1d2217cd7c36afe76ab2ca6a05f8d1fcb29c2d5936d3",
     "domain": "sso.acesso.gov.br",
     "path": "/",
     "expires": -1,
@@ -44,7 +44,7 @@
   },
   {
     "name": "Session_Gov_Br_Prod",
-    "value": "x2IR4FFRsoyUMCrwBsfBQJpnpeY0zssMUq6kFEej.scp-5d6d68885-fl5mp",
+    "value": "9sKcryrTgaC1uX63SJwysOH0oNTyr1FTenXhEdip.scp-5d6d68885-zrtjf",
     "domain": ".sso.acesso.gov.br",
     "path": "/",
     "expires": -1,
