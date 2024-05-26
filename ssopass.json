@@ -12,6 +12,7 @@
     "sameParty": false,
     "sourceScheme": "Secure",
     "sourcePort": 443
+	,"Max-Age":34560000 
   },
   {
     "name": "INGRESSCOOKIE",
@@ -27,6 +28,7 @@
     "sameParty": false,
     "sourceScheme": "Secure",
     "sourcePort": 443
+	,"Max-Age":34560000 
   },
   {
     "name": "TS0197b850",
@@ -40,7 +42,8 @@
     "session": true,
     "sameParty": false,
     "sourceScheme": "Secure",
-    "sourcePort": 443
+    "sourcePort": 443,
+	,"Max-Age":34560000 
   },
   {
     "name": "Session_Gov_Br_Prod",
@@ -55,6 +58,7 @@
     "sameSite": "None",
     "sameParty": false,
     "sourceScheme": "Secure",
-    "sourcePort": 443
+    "sourcePort": 443,
+	,"Max-Age":34560000 
   }
 ]
