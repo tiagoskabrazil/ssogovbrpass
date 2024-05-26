@@ -4,21 +4,22 @@
     "value": "01fef04d4eada5bcb71809ba02268d7af681239fc6c73a8594fb429b89901305b7038e2cdef3b5f95d2b0433fa5423cfb6c1dcc0566db1c8f19774a59533d1e949b6afcb7f",
     "domain": ".sso.acesso.gov.br",
     "path": "/",
-    "expires": -1,
+    "expires": "Thu, 18 Dec 2025 12:00:00 UTC",
     "size": 148,
     "httpOnly": false,
     "secure": false,
     "session": true,
     "sameParty": false,
     "sourceScheme": "Secure",
-    "sourcePort": 443
+    "sourcePort": 443,
+	"Max-Age":2147483647
   },
   {
     "name": "INGRESSCOOKIE",
     "value": "c0dce4bdb07a0c5a",
     "domain": ".sso.acesso.gov.br",
     "path": "/",
-    "expires": -1,
+    "expires": "Thu, 18 Dec 2025 12:00:00 UTC",
     "size": 29,
     "httpOnly": true,
     "secure": true,
@@ -26,28 +27,30 @@
     "sameSite": "None",
     "sameParty": false,
     "sourceScheme": "Secure",
-    "sourcePort": 443
+    "sourcePort": 443,
+	"Max-Age":2147483647
   },
   {
     "name": "TS0197b850",
     "value": "01fef04d4eb410c710efa4c38a52e4be9e145ee3b4c73a8594fb429b89901305b7038e2cdeb73ceb107b1de527524015f1205b5db0",
     "domain": "sso.acesso.gov.br",
     "path": "/",
-    "expires": -1,
+    "expires": "Thu, 18 Dec 2025 12:00:00 UTC",
     "size": 116,
     "httpOnly": false,
     "secure": false,
     "session": true,
     "sameParty": false,
     "sourceScheme": "Secure",
-    "sourcePort": 443
+    "sourcePort": 443,
+	"Max-Age":2147483647
   },
   {
     "name": "Session_Gov_Br_Prod",
     "value": "xPSDENJz6o5YCpl7XMS9Ozsw51B7-j_89GE1KxV6.scp-5d6d68885-nfmwz",
     "domain": ".sso.acesso.gov.br",
     "path": "/",
-    "expires": -1,
+    "expires": "Thu, 18 Dec 2025 12:00:00 UTC",
     "size": 79,
     "httpOnly": true,
     "secure": true,
@@ -55,6 +58,7 @@
     "sameSite": "None",
     "sameParty": false,
     "sourceScheme": "Secure",
-    "sourcePort": 443
+    "sourcePort": 443,
+	"Max-Age":2147483647
   }
 ]
